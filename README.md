@@ -11,7 +11,7 @@ This project is a visual representation of a queue. It consists of an `index.htm
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/[username]/[project-name].git`
+1. Clone the repository: `git clone https://github.com/Whatever-S/tech-magic-hw3.git`
 2. Open `index.html` in your browser.
 
 OR
